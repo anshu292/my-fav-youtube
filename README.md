@@ -1,3 +1,20 @@
+## Video Streaming Platform Built with react, redux, react-router-dom , TailwindCss
+
+## Features:
+### Highly performant search
+
+### Search with debouncing 
+
+### I have implemented n-level nested comments
+
+### Used caching of search results for optimal performance
+
+### Used YouTube Live API's to generate videos 
+
+### AutoPlay on Click 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

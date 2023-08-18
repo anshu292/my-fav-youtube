@@ -20,7 +20,7 @@ MyFavYouTube is a video streaming platform built with ReactJs, Redux, Redux-Tool
 
 ## Live Demo
 
-Explore the live demo of MyFavYouTube at [https://my-fav-youtube.vercel.app/](https://my-fav-youtube.vercel.app/).
+Explore the live demo of MyFavYouTube at [https://my-fav-youtube-anshu.vercel.app/](https://my-fav-youtube-anshu.vercel.app/).
 
 ## Installation
 
